@@ -186,6 +186,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { name: "google-site-verification", content: "RYk63RIrWdGqzoZpS-COCeOLGFhIZfoPbguHUzpaUWI" },
       { title: "Brightside Studio — Tutoring & skills for students" },
       { name: "description", content: "Friendly tutoring, skill coaching and everyday help for students and young customers." },
       { name: "author", content: "Brightside Studio" },
